@@ -7,4 +7,4 @@ A Responsive restaurant website design project build with HTML, CSS and Javascri
 * Menu section
 * Contact Us section
 
-Here's the Demo URL: 
+Here's the Demo URL: https://umair-mirza.github.io/responsive-restaurant/
